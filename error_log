@@ -1,0 +1,8 @@
+[16-Apr-2019 01:51:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:52:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:54:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:55:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:56:36 Asia/Jakarta] PHP Fatal error:  Call to a member function read() on null in /home/ptipduinsgd/public_html/helpdesk/application/controllers/Staff.php on line 27
+[16-Apr-2019 01:56:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:58:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
+[16-Apr-2019 01:59:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/ptipduinsgd/public_html/helpdesk/application/models/View/View_users_staff.php on line 170
